@@ -1,1 +1,1 @@
-# human_activity_recognition
+Report is Human_Activity_Recognition.pdf
